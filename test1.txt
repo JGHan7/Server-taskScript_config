@@ -1,1 +1,1 @@
-just test for delta server which is not a default branch in github.
+Just testing for delta server which is not a default branch in github.
